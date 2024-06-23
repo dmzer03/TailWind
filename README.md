@@ -75,6 +75,8 @@ BreakPoints:
 Ex: md:w-32 lg:w-48
     sm:bg-green-500 md:bg-purple-700
 
+![Tailwind_MiniProject](https://github.com/dmzer03/TailWind/assets/116829494/7a103bdc-2018-43ec-864b-deb3e5f37a06)
+
 Apply Directive: 
 use @apply to inline any existing utility classes inot your own custom css.
 generally any styling repeats then we can use this.
