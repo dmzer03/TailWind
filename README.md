@@ -47,7 +47,7 @@ module.exports = {
 -> link css sheet to HTML 
 
 -> Start your server 
--> npm run dev
+-> npm run start
 -----------------------------------------------------------
 Typography & Sizing :
 Scaling : 1 = 0.25rem
